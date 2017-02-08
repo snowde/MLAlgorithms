@@ -1,3 +1,5 @@
+### Derek Snow: Implementation as used in thesis 
+
 import numpy as np
 # logistic function
 from scipy.special import expit
